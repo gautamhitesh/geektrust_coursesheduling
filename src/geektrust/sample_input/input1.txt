@@ -1,0 +1,9 @@
+/*Please add your sample inputs 
+here specific to the problem statement*/
+ADD-COURSE-OFFERING Physics Subham 27092023 1 3
+ADD-COURSE-OFFERING Chemistry Sumit 28092023 1 5
+REGISTER abc@gmail.com  OFFERING-PHYSICS-SUBHAM
+REGISTER ghi@gmail.com  OFFERING-CHEMISTRY-SUMIT
+REGISTER def@gmail.com  OFFERING-PHYSICS-SUBHAM
+REGISTER jkl@gmail.com  OFFERING-CHEMISTRY-SUMIT
+REGISTER mno@gmail.com  OFFERING-CHEMISTRY-SUMIT
